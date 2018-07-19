@@ -1,0 +1,85 @@
+/*****
+ * TheArtistLounge - Acerbical */
+
+body.chatroom .damnc-tabbar-outer
+{
+    background: url(https://sta.sh/0278mjl1i978) repeat 0 0/64px 30px, #f1a3cc!important;
+    border-bottom: 0px solid #e4a7b1;
+}
+.damnc-tabbar strong i, .damnc-tabbar a i {
+    display: none;
+}
+.damnc-tabbar strong.sdt-hl, .damnc-tabbar a.sdt-hl, .damnc-tabbar strong.sdt-hl i, .damnc-tabbar a.sdt-hl i, #superdamnov a.sdt-hl,
+.damnc-tabbar strong, .damnc-tabbar a {
+    background: rgba(31,87,139,1)!important;
+    border: 2px solid rgba(125,40,55,0.5); 
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+
+    border-bottom: 0;
+    color: #38bad6!important;
+}
+
+
+.damnc-tabbar strong{
+    background: rgb(31,87,139) !important;
+    border: 2px solid #38bad6;
+    border-bottom: 0;
+    top: -2px;
+    margin-bottom: -2px;
+    padding: 5px 11px 7px 11px
+}
+
+
+
+.damncr-title,
+body.chatroom div.bubbleview, .alt0 {
+    background: #18456F!important;
+}
+
+.damn .alt2 {
+    background: rgba(255,255,255,0.2)!important;
+}
+.damncrc-chat-window{
+    border: 4px solid hsla(209,79%,75%,0.33);
+}
+.aside-left,
+.damncr-members dl dt{
+    background: #8DC1F2!important;
+}
+.alt1-left-border{
+    border-left-color: hsla(209, 79%, 75%, 0.5);
+}
+.damncr-members{
+}
+.damncrc-topic{
+    background: rgba(0,0,0,0.1)!important;
+    border-color: transparent;
+    margin-top: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    overflow:visible!important;
+}
+.damn-lo-row-top .damncr-title{
+    background: linear-gradient(rgb(31,87,139) 1%, #C6E0F8 )!important;
+}
+.damncrc-chat-window {
+    border-width:0px;
+}
+
+.damn-lo-row-top {
+    overflow:visible!important;
+}
+
+.damncrc-topic:after {
+    content: '';
+    height: 50px;
+    width: 75px;
+    top: -20px;
+    right:-47px;
+    display: block;
+    background-size:contain!important;;
+    background: url(https://sta.sh/018fg2uv1wty) no-repeat;
+    position: absolute;
+    z-index: 999;
+}
